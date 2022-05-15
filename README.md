@@ -1,10 +1,14 @@
 <h2 align="">Hi 👋,</h2>
-<p> I'm Abhinandu V Nair, a passionate designer/developer based on Cochin, India</p>
 
+ I'm **Abhinandu V Nair**, a passionate designer/developer based on Cochin, India.
+
+- 💼 Working on **User Experience** at [TechNeurons](https://www.techneurons.com/)
 
 - 🌱 I’m currently learning **NextJS**
 
-- ❤️ I Love **Real Madrid, FRIENDS and so on**
+- 💻 Experienced in **MERN, Flutter** and so on.
+
+- ❤️ In Love with **Real Madrid, FRIENDS**...
 
 <p align="center">
 <a href="https://codepen.io/abhndv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhndv" height="30" width="40" /></a>
