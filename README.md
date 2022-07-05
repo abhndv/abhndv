@@ -5,7 +5,7 @@
 I'm **Abhinandu V Nair**, a passionate designer/developer based on Cochin, India. I love to develop modern solutions for both Mobile and Web.
 <p>&nbsp;</p>
  
-- 💼 Working on **User Experience** at [TechNeurons](https://www.techneurons.com/)
+- 💼 Recently worked on **User Experience** at [TechNeurons](https://www.techneurons.com/)
 
 - 🌱 I’m currently learning **NextJS**
 
