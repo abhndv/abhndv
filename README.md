@@ -4,10 +4,8 @@
 
 I'm **Abhinandu V Nair**, a passionate designer/developer based on Cochin, India. I love to develop modern solutions for both Mobile and Web.
 <p>&nbsp;</p>
- 
-- ⭐ Looking for a new opportunity.
 
-- 💼 Recently worked on **User Experience** at [TechNeurons](https://www.techneurons.com/)
+- 💼 **Senior Software Engineer** at [MSys Technologies](https://www.msystechnologies.com/)
 
 - 🌱 I’m currently learning **NextJS**
 
